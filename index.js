@@ -83,5 +83,6 @@ for (let uczen of uczniowie) {
     }
   );
 }
+
 // const nowyArr = Object.assign(uczniowie, blizniacy);
 console.log(blizniacy);
